@@ -10,8 +10,9 @@
 #include "cocos2d.h"
 #import "AdMoGoView.h"
 #import "AppController.h"
+#import "platform/ios/CCEAGLView-ios.h"
 //#import "EAGLView.h"
-#import "CCEAGLView.h"
+//#import "CCEAGLView.h"
 #import "AdMoGoLogCenter.h"
 #import "AppController.h"
 
